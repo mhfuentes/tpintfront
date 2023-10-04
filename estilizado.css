@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* h2 Carrucel */
+.carousel-inner h2{
+    font-weight: bold;
+}
+
+/* h4 Card -Group */
+.card h4{
+    font-weight: bold;
+}
+
+/* h5 y butonn Card-Body */
+.card-body h5{
+    font-weight: bold;
+}
+
+.card-body button{
+    border:1px solid white;
+}
+
+/* footer */
+.contenedor{
+    height: 100%;
+    display: flex;
+    margin-top: 20px;
+    background-color: #1b3039;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar1 ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    align-items: baseline;
+}
+.navbar1 ul li a{
+    font-size: 700;
+    color: #eceff1;
+    text-decoration: none;
+}
