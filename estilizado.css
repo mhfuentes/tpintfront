@@ -47,6 +47,11 @@
     text-decoration: none;
 }
 
+.abc{
+    padding-top: 20px;
+    width: 549px;
+}
+
 /* a  ticket.html */
 .conf a{
     color: #000000; 
